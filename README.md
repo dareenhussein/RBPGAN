@@ -64,4 +64,9 @@ bash ./test.sh BD RBPGAN/RBPGAN_VimeoTecoGAN_4xSR_2GPU
 This code is based on [TecoGAN-TensorFlow](https://github.com/thunil/TecoGAN) and  [TecoGAN-PyTorch
 ](https://github.com/skycrapers/TecoGAN-PyTorch)
 
-If you have any further questions or clarifications don't hesitate to contact me : 'dareenhussein@aucegypt.edu'.
+If you have any further questions or clarifications don't hesitate to contact me or any of the team members: 'dareenhussein@aucegypt.edu'
+'israafahmy@aucegypt.edu'
+'marwahisham@aucegypt.edu'
+'mohameedyasser36@aucegypt.edu'
+'mohamedd_elnaggar@aucegypt.edu'
+'zahraaagamal@aucegypt.edu'
